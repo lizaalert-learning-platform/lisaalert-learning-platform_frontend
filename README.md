@@ -1,2 +1,3 @@
 # lisaalert-learning-platform_frontend
--[x] 1
+
+- [x] Элемент списка
