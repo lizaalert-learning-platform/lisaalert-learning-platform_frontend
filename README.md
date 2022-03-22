@@ -2,7 +2,7 @@
 
 # Задачи:
 - [ ] Элемент списка 1
-  - [ ] Элемент списка 2
+  - [ ] https://github.com/lizaalert-learning-platform/lisaalert-learning-platform_frontend/issues/1
   - [ ] Элемент списка 3 
   - [ ] Элемент списка 4
   - [x] Элемент списка 5
